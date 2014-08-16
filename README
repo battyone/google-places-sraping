@@ -1,0 +1,3 @@
+The script scrapes Google Maps search results using Python Selenium bindings (without using Google Places API) - Place's name, adress, zipcode, state, website
+In order to run it you have to have chromdriver.exe and Google Chrome installed on your machine.
+To use it you need to provide search query and coordinates for area where search is to be perfomed (currently it is US and Canada).
